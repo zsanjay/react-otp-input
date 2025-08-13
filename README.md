@@ -1,2 +1,1 @@
-# react-otp-input
-React OTP Input
+# React OTP Input
